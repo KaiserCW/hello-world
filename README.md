@@ -1,2 +1,2 @@
 # hello-world
-First steps in GitHub
+I'm Dmytro from Ukraine, and this is my first steps in GitHub!
